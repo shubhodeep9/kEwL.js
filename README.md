@@ -7,8 +7,14 @@ It transforms the input field values to AlTeRnAtE CaSiNg
 # Why?
 Because I am kEwL :sunglasses:
 
+# Demo
+Visit [here](https://shubhodeep.co/kEwL.js/demo.html).
+
 # Installation
-Download or install via npm
+Download:
+- put `<script src="https://shubhodeep.co/kEwL.js/kewl.min.js"></script>`
+
+or install via npm
 ```sh
 > npm install kewl
 ```
