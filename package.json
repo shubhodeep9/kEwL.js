@@ -1,0 +1,17 @@
+{
+  "name": "kewl",
+  "version": "1.0.0",
+  "description": "Do YoU WaNnA Be kEwL?",
+  "main": "kewl.js",
+  "keywords": [
+    "cool",
+    "kewl",
+    "alternate-casing"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/shubhodeep9/kEwL.js.git"
+  },
+  "author": "Shubhodeep Mukherjee",
+  "license": "ISC"
+}
